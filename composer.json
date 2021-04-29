@@ -1,0 +1,9 @@
+{
+    "name": "gilmar/sisjunior",
+"description": "CRUD UTILIZANDO PDO",
+    "autoload":{
+        "psr-4":{
+            "App\\":"App/"
+        }
+    }
+}
